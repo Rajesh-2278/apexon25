@@ -14,13 +14,6 @@ public class Rajesh {
 //	@AllArgsConstructor
 //	@NoArgsConstructor
 //	@Entity
-//	public class CourseMaterial {
-//
-//		@Id
-//		private Long materialId;
-//		//private Course course; // Reference to the course this material belongs to
-//		private String fileName;
-//		private String fileUrl;
-//	}
+
 	
 }
